@@ -17,3 +17,6 @@
 1. Mongo Atlas : https://www.mongodb.com/atlas
 2. Swagger : http://localhost:8070/swagger-ui.html
 3. Api Docs : http://localhost:8070/api-docs
+
+## Medium Artikel : 
+Tutorial Integrasi Mongo DB Atlas dengan Java Spring Boot : https://medium.com/@septianrezaa/tutorial-integrasi-mongo-db-atlas-dengan-java-spring-boot-89c43a695aa9
